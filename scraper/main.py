@@ -2,7 +2,6 @@ import json
 import os
 from datetime import datetime, timezone
 
-import notify
 import scrape_nerum
 import scrape_sansi
 
@@ -66,11 +65,8 @@ def process_source(source, module):
 
 
 def main():
-    new_items_by_source = {}
     for source, module in SOURCES.items():
-        new_items_by_source[source] = process_source(source, module)
-
-    notify.send_email(new_items_by_source)
+        process_source(source, module)
 
 
 if __name__ == "__main__":
