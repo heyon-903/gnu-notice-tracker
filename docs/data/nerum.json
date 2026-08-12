@@ -1,5 +1,24 @@
 [
   {
+    "id": "062c309df275e97004a9a1843cf21979",
+    "source": "nerum",
+    "title": "대학일자리플러스센터 2026 잡스(jobs) 서포터즈",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "대학일자리플러스센터 2026 서포터즈 모집",
+    "apply_period": "2026.08.12(수) ~ 2026.08.20(목)",
+    "edu_period": "2026.09.16(수) ~ 2026.12.31(목)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=062c309df275e97004a9a1843cf21979&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-12T04:10:49.313676+00:00",
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+  },
+  {
     "id": "b26f595d12a4b9c3c13d522fcbc5416d",
     "source": "nerum",
     "title": "2026년 GNU K-기업가정신 팸투어",
@@ -17,7 +36,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b26f595d12a4b9c3c13d522fcbc5416d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "42f1d282323b16bd117d209965d72e7f",
@@ -36,7 +55,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=42f1d282323b16bd117d209965d72e7f&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "4f1bd8e476f9e45f2a09c1bc05af545e",
@@ -55,7 +74,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=4f1bd8e476f9e45f2a09c1bc05af545e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "28cf08ecfca3660d08bab32b8d4144ef",
@@ -74,7 +93,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=28cf08ecfca3660d08bab32b8d4144ef&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "872549933c92cc434d57643ddcb49382",
@@ -93,7 +112,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=872549933c92cc434d57643ddcb49382&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "da8308dbb0ffebb13cd792b95adbc35b",
@@ -112,7 +131,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=da8308dbb0ffebb13cd792b95adbc35b&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "ef36a478647c1194c7f4d529015e69bf",
@@ -131,7 +150,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ef36a478647c1194c7f4d529015e69bf&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "e6a55853ae7d08f1577b8f4309363135",
@@ -150,7 +169,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e6a55853ae7d08f1577b8f4309363135&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "6e5dacbca6715cd084a06b76bb6226e5",
@@ -169,7 +188,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6e5dacbca6715cd084a06b76bb6226e5&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "ca455a27782c84c11f30b38856a403cb",
@@ -188,7 +207,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ca455a27782c84c11f30b38856a403cb&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "15e92e12e9cde23f53fb2278fe71ca6a",
@@ -207,7 +226,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=15e92e12e9cde23f53fb2278fe71ca6a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "ff6ea3894950320485cf580b38b04fda",
@@ -225,7 +244,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ff6ea3894950320485cf580b38b04fda&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "28c0e0e62c5d0d1ff5fa3fc84db29922",
@@ -244,7 +263,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=28c0e0e62c5d0d1ff5fa3fc84db29922&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "39f01abeba41716fecd97788d7442a13",
@@ -263,7 +282,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=39f01abeba41716fecd97788d7442a13&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "a6bda0ebe783421ed4cf5c95df956064",
@@ -282,7 +301,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a6bda0ebe783421ed4cf5c95df956064&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "36ac46095b19baa23b21f2aec7527dee",
@@ -301,7 +320,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=36ac46095b19baa23b21f2aec7527dee&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "bb3249fed79e7044e62b1391d61ae0e0",
@@ -320,7 +339,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bb3249fed79e7044e62b1391d61ae0e0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "d052fad673c199a7fc64fc0a783ae4f3",
@@ -339,7 +358,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d052fad673c199a7fc64fc0a783ae4f3&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   },
   {
     "id": "dcdd47047d4f2f02496b5aa597643b47",
@@ -358,24 +377,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dcdd47047d4f2f02496b5aa597643b47&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
-  },
-  {
-    "id": "e39b5ae5fdd75e94a32c038e12998389",
-    "source": "nerum",
-    "title": "2026학년도 GNU AI 윤리교육(교직원)",
-    "org": "AI센터",
-    "type": "온라인(비대면)",
-    "desc": "대학 구성원의 AI 활용 윤리의식 수준 향상",
-    "apply_period": "2026.07.30(목) ~ 2026.08.19(수)",
-    "edu_period": "2026.07.30(목) ~ 2026.08.19(수)",
-    "tags": [
-      "도전정신",
-      "문제해결",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e39b5ae5fdd75e94a32c038e12998389&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-11T03:47:36.249605+00:00"
+    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
   }
 ]
