@@ -1,5 +1,25 @@
 [
   {
+    "id": "78f3903d3be16f255520a8cc5be9941b",
+    "source": "nerum",
+    "title": "[국립대학육성사업] 2026학년도 현장연계 진로교육(단과대 맞춤형) 비교과 프로그램",
+    "org": "제어로봇공학과",
+    "type": "오프라인(대면)",
+    "desc": "전공분야 이해도 증진을 위한 국방기술품질원 견학",
+    "apply_period": "2026.08.13(목) ~ 2026.08.23(일)",
+    "edu_period": "2026.09.16(수) ~ 2026.09.16(수)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "도전정신",
+      "자기관리",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=78f3903d3be16f255520a8cc5be9941b&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
     "id": "062c309df275e97004a9a1843cf21979",
     "source": "nerum",
     "title": "대학일자리플러스센터 2026 잡스(jobs) 서포터즈",
@@ -16,7 +36,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=062c309df275e97004a9a1843cf21979&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-12T04:10:49.313676+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "b26f595d12a4b9c3c13d522fcbc5416d",
@@ -36,26 +56,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b26f595d12a4b9c3c13d522fcbc5416d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "42f1d282323b16bd117d209965d72e7f",
-    "source": "nerum",
-    "title": "[추가모집] ISO9001(품질) 국제심사원[보] 자격 취득 과정(무료)",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "제조 분야 업무에 필요한 생산/품질관리 실무역량 강화",
-    "apply_period": "2026.08.11(화) ~ 2026.08.18(화)",
-    "edu_period": "2026.08.20(목) ~ 2026.08.21(금)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=42f1d282323b16bd117d209965d72e7f&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "4f1bd8e476f9e45f2a09c1bc05af545e",
@@ -74,7 +75,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=4f1bd8e476f9e45f2a09c1bc05af545e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "28cf08ecfca3660d08bab32b8d4144ef",
@@ -93,7 +94,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=28cf08ecfca3660d08bab32b8d4144ef&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "872549933c92cc434d57643ddcb49382",
@@ -112,7 +113,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=872549933c92cc434d57643ddcb49382&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "da8308dbb0ffebb13cd792b95adbc35b",
@@ -131,7 +132,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=da8308dbb0ffebb13cd792b95adbc35b&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "ef36a478647c1194c7f4d529015e69bf",
@@ -150,7 +151,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ef36a478647c1194c7f4d529015e69bf&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "e6a55853ae7d08f1577b8f4309363135",
@@ -169,45 +170,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e6a55853ae7d08f1577b8f4309363135&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "6e5dacbca6715cd084a06b76bb6226e5",
-    "source": "nerum",
-    "title": "2026학년도 REAL COMPANY CHALLENGE CAMP",
-    "org": "IC-PBL센터",
-    "type": "오프라인(대면)",
-    "desc": "다양한 전공의 학생들이 현직자와 한 팀이 되어 기업의 실제 현안을 분석하고, 실무 맞춤형 기획안(포트폴리오)을 도출해 내는 1박 2일 집중형 문제해결 캠프",
-    "apply_period": "2026.08.05(수) ~ 2026.08.12(수)",
-    "edu_period": "2026.08.20(목) ~ 2026.08.21(금)",
-    "tags": [
-      "문제해결",
-      "의사소통",
-      "창의융합",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6e5dacbca6715cd084a06b76bb6226e5&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "ca455a27782c84c11f30b38856a403cb",
-    "source": "nerum",
-    "title": "[블랙리스트해제 ] [RISE]취업필살기10기(자기소개서클리닉)",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "취업스킬 향상을 위한 특강 수강 후 1:1 맞춤 컨설팅 진행",
-    "apply_period": "2026.08.04(화) ~ 2026.08.12(수)",
-    "edu_period": "2026.08.05(수) ~ 2026.08.12(수)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ca455a27782c84c11f30b38856a403cb&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "15e92e12e9cde23f53fb2278fe71ca6a",
@@ -226,7 +189,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=15e92e12e9cde23f53fb2278fe71ca6a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "ff6ea3894950320485cf580b38b04fda",
@@ -244,83 +207,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ff6ea3894950320485cf580b38b04fda&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "28c0e0e62c5d0d1ff5fa3fc84db29922",
-    "source": "nerum",
-    "title": "[진로P] 8월 취업특강 _ 직무 분석 핵심 요소 이해하기",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "직무를 제대로 분석하고 나에게 맞는 취업전략을 세운다.",
-    "apply_period": "2026.08.01(토) ~ 2026.08.13(목)",
-    "edu_period": "2026.08.21(금) ~ 2026.08.21(금)",
-    "tags": [
-      "문제해결",
-      "도전정신",
-      "자기관리",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=28c0e0e62c5d0d1ff5fa3fc84db29922&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "39f01abeba41716fecd97788d7442a13",
-    "source": "nerum",
-    "title": "[진로P] 8월 진로특강 _ 변화하는 직업세계 이해하기",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "변화하는 직업세계에 맞춰 나만의 커리어 방향을 설계한다.",
-    "apply_period": "2026.08.01(토) ~ 2026.08.13(목)",
-    "edu_period": "2026.08.21(금) ~ 2026.08.21(금)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=39f01abeba41716fecd97788d7442a13&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-11T03:47:36.249605+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "a6bda0ebe783421ed4cf5c95df956064",
-    "source": "nerum",
-    "title": "[진로P] 8월 취업특강 _ 채용 트렌드 파악하기",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "채용트렌드를 이해하고 나에게 맞는 취업전략을 수립한다.",
-    "apply_period": "2026.08.01(토) ~ 2026.08.13(목)",
-    "edu_period": "2026.08.20(목) ~ 2026.08.20(목)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a6bda0ebe783421ed4cf5c95df956064&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
-  },
-  {
-    "id": "36ac46095b19baa23b21f2aec7527dee",
-    "source": "nerum",
-    "title": "[진로P] 8월 진로특강 _ 나만의 커리어 아이덴티티 만들기",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "자의 가치관과 경험을 연결해 나만의 커리어 방향을 설계한다.",
-    "apply_period": "2026.08.01(토) ~ 2026.08.13(목)",
-    "edu_period": "2026.08.20(목) ~ 2026.08.20(목)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=36ac46095b19baa23b21f2aec7527dee&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "bb3249fed79e7044e62b1391d61ae0e0",
@@ -339,7 +226,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bb3249fed79e7044e62b1391d61ae0e0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "d052fad673c199a7fc64fc0a783ae4f3",
@@ -358,7 +245,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d052fad673c199a7fc64fc0a783ae4f3&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   },
   {
     "id": "dcdd47047d4f2f02496b5aa597643b47",
@@ -367,7 +254,7 @@
     "org": "대학일자리플러스센터",
     "type": "오프라인(대면)",
     "desc": "[RISE] 2026년 인재양성과정(금융 심화) 직무 캠프",
-    "apply_period": "2026.07.29(수) ~ 2026.08.13(목)",
+    "apply_period": "2026.07.29(수) ~ 2026.08.14(금)",
     "edu_period": "2026.07.29(수) ~ 2026.08.10(월)",
     "tags": [
       "자기관리",
@@ -377,6 +264,116 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dcdd47047d4f2f02496b5aa597643b47&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-09T14:45:47.983979+00:00",
-    "fetched_at": "2026-08-12T04:10:49.313676+00:00"
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "e39b5ae5fdd75e94a32c038e12998389",
+    "source": "nerum",
+    "title": "2026학년도 GNU AI 윤리교육(교직원)",
+    "org": "AI센터",
+    "type": "온라인(비대면)",
+    "desc": "대학 구성원의 AI 활용 윤리의식 수준 향상",
+    "apply_period": "2026.07.30(목) ~ 2026.08.19(수)",
+    "edu_period": "2026.07.30(목) ~ 2026.08.19(수)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e39b5ae5fdd75e94a32c038e12998389&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "a341ad60e30566831dcc08351d80dea2",
+    "source": "nerum",
+    "title": "2026학년도 GNU AI 윤리교육(학생)",
+    "org": "AI센터",
+    "type": "온라인(비대면)",
+    "desc": "대학 구성원의 AI 활용 윤리의식 수준 향상",
+    "apply_period": "2026.07.30(목) ~ 2026.08.19(수)",
+    "edu_period": "2026.07.30(목) ~ 2026.08.19(수)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a341ad60e30566831dcc08351d80dea2&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "98b648e5223e6a0fb595b27663104a25",
+    "source": "nerum",
+    "title": "[[칠암캠퍼스 집단상담]] 2026학년도 하계(8월) 대인관계증진 집단상담 '유연한 관계 만들기'(매주 수·목요일 2주간)",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "관계에서 느끼는 불안을 회피하기보다 그것을 수용하고 자신의 가치에 따른 행동 학습으로 대학생활 만족도 향상",
+    "apply_period": "2026.07.28(화) ~ 2026.08.18(화)",
+    "edu_period": "2026.08.19(수) ~ 2026.08.27(목)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "문제해결",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=98b648e5223e6a0fb595b27663104a25&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "a0f229263d3174b59f57df442077cb25",
+    "source": "nerum",
+    "title": "[[칠암캠퍼스]] 2026학년도 하계(8월) 대인관계증진 집단상담 '관계성장 프로젝트'(매주 화·금 요일 2주간)",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "공감과 의사소통 기반의 자기이해·타인이해 증진 및 건강한 대인관계 형성",
+    "apply_period": "2026.07.28(화) ~ 2026.08.14(금)",
+    "edu_period": "2026.08.18(화) ~ 2026.08.28(금)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "문제해결",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a0f229263d3174b59f57df442077cb25&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "d70617457875843836d9b13275af8c59",
+    "source": "nerum",
+    "title": "학과전공자격증취득",
+    "org": "동물생명과학과",
+    "type": "온라인(비대면)",
+    "desc": "학과 전공자격증 취득",
+    "apply_period": "2026.01.01(목) ~ 2026.12.31(목)",
+    "edu_period": "2026.01.01(목) ~ 2026.12.31(목)",
+    "tags": [
+      "도전정신",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d70617457875843836d9b13275af8c59&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
+  },
+  {
+    "id": "8546fd1099592ead2a4c4794cc52eadd",
+    "source": "nerum",
+    "title": "(수료시 8만원 수당 지급) 취업스킬업 과정 [자소서 기반 실전 면접 역량 강화 과정]",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "고학년 및 미취업 졸업생들의 단기집중교육을 통한 취업스킬 향상",
+    "apply_period": "2026.07.08(수) ~ 2026.08.20(목)",
+    "edu_period": "2026.08.27(목) ~ 2026.08.28(금)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8546fd1099592ead2a4c4794cc52eadd&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-13T04:14:29.432128+00:00",
+    "fetched_at": "2026-08-13T04:14:29.432128+00:00"
   }
 ]
