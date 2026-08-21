@@ -1,5 +1,62 @@
 [
   {
+    "id": "74a8f5935fcb800cfec724b741f2bf9c",
+    "source": "nerum",
+    "title": "[재.맞.고] 빌드업 자기주도적 진로역량강화 프로그램 6기(활동비 지급 프로그램)",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "빌드업 프로그램 참여 대상자에게 자기주도적 진로탐색 및 진로역량을 향상할 수 있는 과정",
+    "apply_period": "2026.08.21(금) ~ 2026.08.28(금)",
+    "edu_period": "2026.09.01(화) ~ 2026.09.30(수)",
+    "tags": [
+      "의사소통",
+      "문제해결",
+      "자기관리",
+      "도전정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=74a8f5935fcb800cfec724b741f2bf9c&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-21T03:05:19.430453+00:00",
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
+  },
+  {
+    "id": "8841a777efcd8c47afee1a7cff1720ee",
+    "source": "nerum",
+    "title": "자기동기강화 집단상담_목15시(비대면)",
+    "org": "학생상담센터",
+    "type": "온라인(비대면)",
+    "desc": "자기동기강화 집단상담_목15시(비대면)",
+    "apply_period": "2026.08.20(목) ~ 2026.08.31(월)",
+    "edu_period": "2026.09.03(목) ~ 2026.10.08(목)",
+    "tags": [
+      "자기관리",
+      "의사소통",
+      "도전정신",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8841a777efcd8c47afee1a7cff1720ee&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-21T03:05:19.430453+00:00",
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
+  },
+  {
+    "id": "ba011a8c6ea17cc4db4a6a3798e1f585",
+    "source": "nerum",
+    "title": "자기동기강화 집단상담_화10시(비대면)",
+    "org": "학생상담센터",
+    "type": "온라인(비대면)",
+    "desc": "자기동기강화 집단상담_화10시(비대면)",
+    "apply_period": "2026.08.20(목) ~ 2026.08.30(일)",
+    "edu_period": "2026.09.01(화) ~ 2026.09.29(화)",
+    "tags": [
+      "자기관리",
+      "의사소통",
+      "도전정신",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ba011a8c6ea17cc4db4a6a3798e1f585&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-21T03:05:19.430453+00:00",
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
+  },
+  {
     "id": "69b0403a22e4a10945337fc797c95a23",
     "source": "nerum",
     "title": "2026학년도 진로 단체심리검사(Holland 직업적성검사) 프로그램",
@@ -16,7 +73,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=69b0403a22e4a10945337fc797c95a23&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "58e0119e2250f735774bde7d585089d7",
@@ -35,7 +92,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=58e0119e2250f735774bde7d585089d7&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "b1a64fee5c7362d9ceb4af36b176efdc",
@@ -54,7 +111,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b1a64fee5c7362d9ceb4af36b176efdc&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "bfbd15b667b690aa47d3ece3a61f7275",
@@ -73,7 +130,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bfbd15b667b690aa47d3ece3a61f7275&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "e1dc7d927764eb6326b0ebd040d8e2fc",
@@ -92,7 +149,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e1dc7d927764eb6326b0ebd040d8e2fc&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "a93d3cd73db11e5ed76dffe3f608017a",
@@ -111,7 +168,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a93d3cd73db11e5ed76dffe3f608017a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "035a63f13abc56590e740a83d8d2382e",
@@ -130,7 +187,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=035a63f13abc56590e740a83d8d2382e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "ca750a02e1c504a2f0ee8e202f50c065",
@@ -149,7 +206,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ca750a02e1c504a2f0ee8e202f50c065&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "c4a42645d8d2b2a2eefe7d7ff9081792",
@@ -168,7 +225,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c4a42645d8d2b2a2eefe7d7ff9081792&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "31437a738905d1fd1b5f553a33a01aaf",
@@ -187,7 +244,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=31437a738905d1fd1b5f553a33a01aaf&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "e54c5efc33c3ffbaff5c3d1c0c165d10",
@@ -206,7 +263,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e54c5efc33c3ffbaff5c3d1c0c165d10&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "cc3416494fcdbb3d4bb0ac26371adedf",
@@ -225,7 +282,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=cc3416494fcdbb3d4bb0ac26371adedf&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "506455f9b876cd28793138dc71a87e11",
@@ -244,7 +301,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=506455f9b876cd28793138dc71a87e11&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "b653a8babaded112d3779d10aa1b32bf",
@@ -263,7 +320,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b653a8babaded112d3779d10aa1b32bf&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "395a2917be1bf85f29a78210ea89b11a",
@@ -282,7 +339,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=395a2917be1bf85f29a78210ea89b11a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "83bc3d1d439bab0a9fb8f1803f2b965e",
@@ -301,7 +358,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=83bc3d1d439bab0a9fb8f1803f2b965e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   },
   {
     "id": "38175c6c21cf2243319a07461937b53f",
@@ -320,63 +377,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=38175c6c21cf2243319a07461937b53f&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
-  },
-  {
-    "id": "531e948be5b620e7e07b5d88b2caf96e",
-    "source": "nerum",
-    "title": "(시상금 지원)[RISE] 2026년 경남지역 기업·직무 분석 경진대회 사전 교육 특강(1차) ※ 직무 분석 경진대회 일환",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "기업 직무 분석 경진대회 참여 지원을 위한 사전 교육",
-    "apply_period": "2026.08.18(화) ~ 2026.09.03(목)",
-    "edu_period": "2026.09.04(금) ~ 2026.09.04(금)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=531e948be5b620e7e07b5d88b2caf96e&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-19T02:59:54.131115+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
-  },
-  {
-    "id": "e3010a0128394accc2020d17bbb54e9d",
-    "source": "nerum",
-    "title": "2026학년도 기초학력증진프로그램(4차)",
-    "org": "교육혁신처",
-    "type": "온라인(비대면)",
-    "desc": "수준별 온라인 학습과 진단평가를 통해 기초학습 역량을 강화하는 맞춤형 학습 프로그램",
-    "apply_period": "2026.08.14(금) ~ 2026.08.27(목)",
-    "edu_period": "2026.09.01(화) ~ 2026.12.31(목)",
-    "tags": [
-      "자기관리",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e3010a0128394accc2020d17bbb54e9d&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-14T04:11:19.935915+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
-  },
-  {
-    "id": "eb4b02353924b00141231396bd4865dc",
-    "source": "nerum",
-    "title": "(단과대 맞춤형) GLO-CALS 취업 현장 견학_2026년 대한민국 농업박람회 참관",
-    "org": "농업생명과학대학행정실",
-    "type": "오프라인(대면)",
-    "desc": "대한민국 농업박람회 참가 농업 분야의 최신 트렌드 파악을 통한 창업 아이디어 획득 기회 제공",
-    "apply_period": "2026.08.20(목) ~ 2026.08.28(금)",
-    "edu_period": "2026.09.11(금) ~ 2026.09.11(금)",
-    "tags": [
-      "문제해결",
-      "의사소통",
-      "도전정신",
-      "자기관리",
-      "시민정신",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=eb4b02353924b00141231396bd4865dc&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-20T02:59:01.986561+00:00",
-    "fetched_at": "2026-08-20T02:59:01.986561+00:00"
+    "fetched_at": "2026-08-21T03:05:19.430453+00:00"
   }
 ]
