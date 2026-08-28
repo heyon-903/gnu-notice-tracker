@@ -1,5 +1,79 @@
 [
   {
+    "id": "c5e8a72cb2ca9950973b396179de52e9",
+    "source": "nerum",
+    "title": "칠암캠퍼스 집단상담: 2026학년도 2학기(9월) 대인관계 증진 집단상담Ⅰ-금요일 9:30 / 4주간",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "자신과 타인에 대한 내적 표상 이해, 대인관계에서 나타나는 반복적인 관계 패턴 탐색을 통한 통합적 이해 확장 및 건강한 대상관계 형성",
+    "apply_period": "2026.08.28(금) ~ 2026.09.10(목)",
+    "edu_period": "2026.09.11(금) ~ 2026.10.16(금)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "문제해결",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c5e8a72cb2ca9950973b396179de52e9&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
+  },
+  {
+    "id": "e4d7da94d7d920df3d079358673ea67c",
+    "source": "nerum",
+    "title": "칠암캠퍼스 집단상담: 2026학년도 2학기(9월) 대인관계 증진 집단상담Ⅱ-월요일 14:00 / 4주간",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "대인관계 갈등의 원인 탐색 및 좋은 애착 대상 체험을 통한 신뢰감 회복, 건강한 친구 관계 맺기",
+    "apply_period": "2026.08.28(금) ~ 2026.09.11(금)",
+    "edu_period": "2026.09.14(월) ~ 2026.10.12(월)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "문제해결",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e4d7da94d7d920df3d079358673ea67c&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
+  },
+  {
+    "id": "ce59329043600c38cbed96e41f95ef55",
+    "source": "nerum",
+    "title": "2026년 해외 취업 완전 정복! 「해외취업 설명회」",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "해외 취업에 관심있는 재학생들에게 해외취 정보 제공을 통한 해외취업역량 강화",
+    "apply_period": "2026.08.28(금) ~ 2026.09.14(월)",
+    "edu_period": "2026.09.17(목) ~ 2026.09.17(목)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ce59329043600c38cbed96e41f95ef55&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
+  },
+  {
+    "id": "b47e8d5555dd63ac3b909208988c1392",
+    "source": "nerum",
+    "title": "2026년 해외 취업 완전 정복! 「해외취업 아카데미」",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "해외 취업에 관심있는 재학생들에게 해외취 정보 제공을 통한 해외취업역량 강화",
+    "apply_period": "2026.08.28(금) ~ 2026.09.14(월)",
+    "edu_period": "2026.09.17(목) ~ 2026.09.17(목)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b47e8d5555dd63ac3b909208988c1392&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
+  },
+  {
     "id": "ac253777fd5440fd81df153939dbaf94",
     "source": "nerum",
     "title": "2026학년도 학습 단체심리검사(MLST-II) 프로그램 3차",
@@ -16,7 +90,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ac253777fd5440fd81df153939dbaf94&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "b936daec352b0f280019c32ca4de6434",
@@ -34,17 +108,17 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b936daec352b0f280019c32ca4de6434&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "d309d21b73ccef731dea425a999eeadd",
     "source": "nerum",
-    "title": "<<칠암캠퍼스:동일 검사 중복 참여 불가>> 2026학년도 '나와 너를 이해하는 단체심리검사' - 칠암캠퍼스 9월 16일 CST(강점 검사)",
+    "title": "<<칠암캠퍼스:동일 검사 중복 참여 불가>> 2026학년도 '나와 너를 이해하는 단체심리검사' - 칠암캠퍼스 9월 18일 CST(강점 검사)",
     "org": "학생상담센터",
     "type": "오프라인(대면)",
-    "desc": "> 2026학년도 '나와 너를 이해하는 단체심리검사' - 칠암캠퍼스 9월 16일 CST(강점 검사)",
-    "apply_period": "2026.08.26(수) ~ 2026.09.14(월)",
-    "edu_period": "2026.09.16(수) ~ 2026.09.16(수)",
+    "desc": "> 2026학년도 '나와 너를 이해하는 단체심리검사' - 칠암캠퍼스 9월 18일 CST(강점 검사)",
+    "apply_period": "2026.08.26(수) ~ 2026.09.15(화)",
+    "edu_period": "2026.09.18(금) ~ 2026.09.18(금)",
     "tags": [
       "의사소통",
       "자기관리",
@@ -53,7 +127,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d309d21b73ccef731dea425a999eeadd&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "33e02a2bff0c24f3f2a8e25fdc53a8eb",
@@ -72,7 +146,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=33e02a2bff0c24f3f2a8e25fdc53a8eb&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "9b9a2c97760c608889cd40ceb3847099",
@@ -91,7 +165,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9b9a2c97760c608889cd40ceb3847099&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "600cf33cc3f729bdf1ed565bd20a2e6f",
@@ -110,7 +184,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=600cf33cc3f729bdf1ed565bd20a2e6f&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "15a1a6cf9c53300e4078bd4968dd9cab",
@@ -129,12 +203,12 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=15a1a6cf9c53300e4078bd4968dd9cab&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "80815fcc5a0fc446fbffe443a1fb2595",
     "source": "nerum",
-    "title": "<집단 2개까지 신청가능, 대인관계는 1개만 신청 가능>2026학년도 2학기 대인관계증진 집단상담(매주 화_오전 4주간,가좌캠)",
+    "title": "2026학년도 2학기 대인관계향상 집단상담(매주 화_오전 4주간,가좌캠)<집단 2개까지 신청가능, 대인관계는 1개만 신청 가능>",
     "org": "학생상담센터",
     "type": "오프라인(대면)",
     "desc": "고민을 나누고 나를 이해하며 더 편안하고 자신감 있게 소통하는 방법을 배우는 시간",
@@ -148,7 +222,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80815fcc5a0fc446fbffe443a1fb2595&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "abe0bf1e261cb24cdf0a5a519c11af12",
@@ -167,7 +241,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=abe0bf1e261cb24cdf0a5a519c11af12&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-27T12:35:33.829523+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "5e5a5863cb0d95f51211ff912adb4685",
@@ -184,7 +258,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=5e5a5863cb0d95f51211ff912adb4685&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-26T03:08:09.308669+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "5e9418f1722c33a32ec344c1004402cd",
@@ -203,7 +277,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=5e9418f1722c33a32ec344c1004402cd&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-26T03:08:09.308669+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "bb1ca4b7b77f47f21813ec9cdecda3a0",
@@ -224,7 +298,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bb1ca4b7b77f47f21813ec9cdecda3a0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-26T03:08:09.308669+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "f72dba4ee7d88c0e3f8a227d7a740f24",
@@ -243,7 +317,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=f72dba4ee7d88c0e3f8a227d7a740f24&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "288ed9176fd4e21b88b4ca6b76bbece2",
@@ -262,7 +336,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=288ed9176fd4e21b88b4ca6b76bbece2&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "540261bb220e7f40ebb51d15bbc1463d",
@@ -281,7 +355,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=540261bb220e7f40ebb51d15bbc1463d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   },
   {
     "id": "010707ddff932424d69a73027e070aff",
@@ -300,82 +374,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=010707ddff932424d69a73027e070aff&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
-  },
-  {
-    "id": "8f4861d800959cce9207659e0d16520c",
-    "source": "nerum",
-    "title": "2026년 경상남도 일자리 종합 박람회 참가자 모집",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "일자리 정보 제공으로 구직자 취업 역량 강화",
-    "apply_period": "2026.08.24(월) ~ 2026.09.14(월)",
-    "edu_period": "2026.09.16(수) ~ 2026.09.16(수)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8f4861d800959cce9207659e0d16520c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
-  },
-  {
-    "id": "e7e50d7755df6528c39e0492fc891ffb",
-    "source": "nerum",
-    "title": "<동일 검사 중복 참여 불가> 2026년도 '나와 너를 이해하는 단체심리검사-집단상담' - 가좌캠퍼스 9월 둘째주 MBTI(성격유형검사)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "2026년도 '나와 너를 이해하는 단체심리검사-집단상담' - 가좌캠퍼스 9월 둘째주 MBTI(성격유형검사)",
-    "apply_period": "2026.08.24(월) ~ 2026.09.07(월)",
-    "edu_period": "2026.09.10(목) ~ 2026.09.10(목)",
-    "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e7e50d7755df6528c39e0492fc891ffb&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-25T03:00:53.051851+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
-  },
-  {
-    "id": "07a0ba745638333dfc7dae244ad78de2",
-    "source": "nerum",
-    "title": "<동일 검사 중복 참여 불가> 2026년도 '나와 너를 이해하는 단체심리검사' - 가좌캠퍼스 9월 둘째주 CST(성격강점검사)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "2026년도 '나와 너를 이해하는 단체심리검사' - 가좌캠퍼스 9월 둘째주 CST(성격강점검사)",
-    "apply_period": "2026.08.24(월) ~ 2026.09.07(월)",
-    "edu_period": "2026.09.10(목) ~ 2026.09.10(목)",
-    "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=07a0ba745638333dfc7dae244ad78de2&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-24T03:05:40.116141+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
-  },
-  {
-    "id": "94e182faf4854ed1a5072e5b59da95af",
-    "source": "nerum",
-    "title": "<동일 검사 중복 참여 불가> 2026학년도 '나와 너를 이해하는 단체심리검사' - 가좌캠퍼스 9월 둘째주 TCI(기질 및 성격검사)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "2026학년도 '나와 너를 이해하는 단체심리검사' - 가좌캠퍼스 9월 둘째주 TCI(기질 및 성격검사)",
-    "apply_period": "2026.08.24(월) ~ 2026.09.07(월)",
-    "edu_period": "2026.09.10(목) ~ 2026.09.10(목)",
-    "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=94e182faf4854ed1a5072e5b59da95af&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-24T03:05:40.116141+00:00",
-    "fetched_at": "2026-08-27T12:35:33.829523+00:00"
+    "fetched_at": "2026-08-28T14:06:30.666772+00:00"
   }
 ]
