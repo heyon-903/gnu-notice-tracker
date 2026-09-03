@@ -1,5 +1,56 @@
 [
   {
+    "id": "b46a35bf17b31995dcad21807833b4c0",
+    "source": "nerum",
+    "title": "2026 윤리교육과 현장교사 특강_박도희",
+    "org": "윤리교육과",
+    "type": "오프라인(대면)",
+    "desc": "선배와 후배 간의 멘토-멘티 활동",
+    "apply_period": "2026.09.03(목) ~ 2026.09.19(토)",
+    "edu_period": "2026.09.19(토) ~ 2026.09.19(토)",
+    "tags": [
+      "의사소통",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b46a35bf17b31995dcad21807833b4c0&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-09-03T06:59:16.520763+00:00",
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
+  },
+  {
+    "id": "1bf8f1644d8949b834b6be405b92025c",
+    "source": "nerum",
+    "title": "2026 윤리교육과 현장교사 특강_신예지",
+    "org": "윤리교육과",
+    "type": "오프라인(대면)",
+    "desc": "선배와 후배 간의 멘토-멘티 활동",
+    "apply_period": "2026.09.03(목) ~ 2026.09.19(토)",
+    "edu_period": "2026.09.19(토) ~ 2026.09.19(토)",
+    "tags": [
+      "의사소통",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1bf8f1644d8949b834b6be405b92025c&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-09-03T06:59:16.520763+00:00",
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
+  },
+  {
+    "id": "618ac8bd743d743b915f364963239035",
+    "source": "nerum",
+    "title": "2026년 GNU 인권영화제 (4회차: 2026. 9. 17.(목))",
+    "org": "인권센터",
+    "type": "오프라인(대면)",
+    "desc": "2026년 GNU 인권영화제(프론트맨, 차가운 숨 단편영화 상영 및 토론)",
+    "apply_period": "2026.09.02(수) ~ 2026.09.17(목)",
+    "edu_period": "2026.09.17(목) ~ 2026.09.17(목)",
+    "tags": [
+      "시민정신",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=618ac8bd743d743b915f364963239035&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-09-03T06:59:16.520763+00:00",
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
+  },
+  {
     "id": "9461b7adcbba4e1d1474563eb9aa1482",
     "source": "nerum",
     "title": "2026년 GNU 인권영화제 (3회차: 2026. 9. 16.(수))",
@@ -7,14 +58,14 @@
     "type": "오프라인(대면)",
     "desc": "2026년 GNU 인권영화제(프론트맨, 차가운 숨 단편영화 상영 및 토론)",
     "apply_period": "2026.09.02(수) ~ 2026.09.16(수)",
-    "edu_period": "2026.09.16(수) ~ 2026.09.17(목)",
+    "edu_period": "2026.09.16(수) ~ 2026.09.16(수)",
     "tags": [
       "시민정신",
       "자기관리"
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9461b7adcbba4e1d1474563eb9aa1482&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "ac05d3a82612d91a630d9107a2b49687",
@@ -31,7 +82,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ac05d3a82612d91a630d9107a2b49687&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "c7f755af33ed3f6f27abf8d1a3d9ba63",
@@ -48,7 +99,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c7f755af33ed3f6f27abf8d1a3d9ba63&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "655ce2c83195039f69705ec1aa924d35",
@@ -67,7 +118,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=655ce2c83195039f69705ec1aa924d35&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "37d88982a58cc4082803b82053a4c4d0",
@@ -84,7 +135,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=37d88982a58cc4082803b82053a4c4d0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "bc1938fdbbcd3931d49462033ec46b78",
@@ -101,7 +152,41 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bc1938fdbbcd3931d49462033ec46b78&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
+  },
+  {
+    "id": "9d3e78466153e16c5863f37eee868234",
+    "source": "nerum",
+    "title": "2026 윤리교육과 현장교사 특강_허정무",
+    "org": "윤리교육과",
+    "type": "오프라인(대면)",
+    "desc": "선배와 후배 간의 멘토-멘티 활동",
+    "apply_period": "2026.09.02(수) ~ 2026.09.12(토)",
+    "edu_period": "2026.09.05(토) ~ 2025.06.21(토)",
+    "tags": [
+      "의사소통",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9d3e78466153e16c5863f37eee868234&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-09-03T06:59:16.520763+00:00",
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
+  },
+  {
+    "id": "dbd5aca1c64a4dc59c2b98d552c50732",
+    "source": "nerum",
+    "title": "현장교사 예비교사 멘토링_김신우",
+    "org": "윤리교육과",
+    "type": "오프라인(대면)",
+    "desc": "선배와 후배 간의 멘토 - 멘티 활동",
+    "apply_period": "2026.09.02(수) ~ 2026.09.19(토)",
+    "edu_period": "2026.09.05(토) ~ 2026.09.05(토)",
+    "tags": [
+      "창의융합",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dbd5aca1c64a4dc59c2b98d552c50732&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-09-03T06:59:16.520763+00:00",
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "f17d61050d52f2a356e274fdc36d9710",
@@ -122,24 +207,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=f17d61050d52f2a356e274fdc36d9710&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-02T06:55:39.786159+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
-  },
-  {
-    "id": "9701a4836d8bbf26212593f5fe67a087",
-    "source": "nerum",
-    "title": "2026년 대학(원)생을 위한 인권특강: 「영화로 만나는 인권＆성인지 감수성 교육」정현아 대표 초청특강",
-    "org": "인권센터",
-    "type": "오프라인(대면)",
-    "desc": "2026년 대학(원)생을 위한 인권특강 실시",
-    "apply_period": "2026.09.01(화) ~ 2026.09.03(목)",
-    "edu_period": "2026.09.03(목) ~ 2026.09.03(목)",
-    "tags": [
-      "시민정신",
-      "자기관리"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9701a4836d8bbf26212593f5fe67a087&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "60ca9882f1ed884d19a64d56bc5d34cd",
@@ -158,7 +226,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=60ca9882f1ed884d19a64d56bc5d34cd&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "671df3e0205edf31fffa6b6a2012f947",
@@ -177,7 +245,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=671df3e0205edf31fffa6b6a2012f947&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "40cd9a293fd2d66de9621896fe681a74",
@@ -196,12 +264,12 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=40cd9a293fd2d66de9621896fe681a74&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "e28557854bb8eeefd6b00b2b65d3b714",
     "source": "nerum",
-    "title": "(시상금 지원)[RISE] 2026년 경남지역 기업·직무 분석 경진대회 사전 교육 특강(2차)_09.11.(금) ※ 직무 분석 경진대회 일환",
+    "title": "(시상금 지원,블랙리스트 해제 지원)[RISE] 2026년 경남지역 기업·직무 분석 경진대회 사전 교육 특강(2차)_09.11.(금) ※ 직무 분석 경진대회 일환",
     "org": "대학일자리플러스센터",
     "type": "오프라인(대면)",
     "desc": "기업 직무 분석 경진대회 참여 지원을 위한 사전 교육",
@@ -215,7 +283,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e28557854bb8eeefd6b00b2b65d3b714&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "fe8023b406cedbbfb67f231061fe39ed",
@@ -235,7 +303,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=fe8023b406cedbbfb67f231061fe39ed&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "9e9c40ec8e22cd064e5755a6e0c00832",
@@ -254,7 +322,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9e9c40ec8e22cd064e5755a6e0c00832&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "b266cd8f7085b5afd01e224a0b8e13d7",
@@ -273,7 +341,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b266cd8f7085b5afd01e224a0b8e13d7&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   },
   {
     "id": "3a77d16d3cbb16c8a37d22efdd8a7e82",
@@ -292,82 +360,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3a77d16d3cbb16c8a37d22efdd8a7e82&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
-  },
-  {
-    "id": "25ab371ea577d826cdd3a7b47ec47dda",
-    "source": "nerum",
-    "title": "[1학년] 2026학년도 2학기 정신건강증진교육 - 지능정보서비스 과의존 예방교육",
-    "org": "학생상담센터",
-    "type": "온라인(비대면)",
-    "desc": "[학생 법정 의무교육] 지능정보서비스 과의존 예방교육",
-    "apply_period": "2026.09.01(화) ~ 2026.12.30(수)",
-    "edu_period": "2026.09.01(화) ~ 2026.12.30(수)",
-    "tags": [
-      "자기관리",
-      "문제해결",
-      "의사소통",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=25ab371ea577d826cdd3a7b47ec47dda&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-09-01T07:28:23.897526+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
-  },
-  {
-    "id": "0c817d6d62d733181e25d9ab2d5d9d7d",
-    "source": "nerum",
-    "title": "2026년 하반기 쎄트렉아이 채용상담회",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "국내 유일의 위성시스템 개발 및 수출기업인 쎄트렉아이 채용 계획에 맞춰 체용상담회를 운영하오니 많은 참여 바랍니다.",
-    "apply_period": "2026.08.31(월) ~ 2026.09.13(일)",
-    "edu_period": "2026.09.14(월) ~ 2026.09.14(월)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0c817d6d62d733181e25d9ab2d5d9d7d&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-31T08:19:14.414654+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
-  },
-  {
-    "id": "c5e8a72cb2ca9950973b396179de52e9",
-    "source": "nerum",
-    "title": "칠암캠퍼스 집단상담: 2026학년도 2학기(9월) 대인관계 증진 집단상담Ⅰ-금요일 9:30 / 4주간",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "자신과 타인에 대한 내적 표상 이해, 대인관계에서 나타나는 반복적인 관계 패턴 탐색을 통한 통합적 이해 확장 및 건강한 대상관계 형성",
-    "apply_period": "2026.08.28(금) ~ 2026.09.10(목)",
-    "edu_period": "2026.09.11(금) ~ 2026.10.16(금)",
-    "tags": [
-      "의사소통",
-      "시민정신",
-      "문제해결",
-      "자기관리"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c5e8a72cb2ca9950973b396179de52e9&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
-  },
-  {
-    "id": "e4d7da94d7d920df3d079358673ea67c",
-    "source": "nerum",
-    "title": "칠암캠퍼스 집단상담: 2026학년도 2학기(9월) 대인관계 증진 집단상담Ⅱ-월요일 14:00 / 4주간",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "대인관계 갈등의 원인 탐색 및 좋은 애착 대상 체험을 통한 신뢰감 회복, 건강한 친구 관계 맺기",
-    "apply_period": "2026.08.28(금) ~ 2026.09.11(금)",
-    "edu_period": "2026.09.14(월) ~ 2026.10.12(월)",
-    "tags": [
-      "의사소통",
-      "시민정신",
-      "문제해결",
-      "자기관리"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e4d7da94d7d920df3d079358673ea67c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-08-28T14:06:30.666772+00:00",
-    "fetched_at": "2026-09-02T06:55:39.786159+00:00"
+    "fetched_at": "2026-09-03T06:59:16.520763+00:00"
   }
 ]
