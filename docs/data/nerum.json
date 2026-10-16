@@ -1,5 +1,81 @@
 [
   {
+    "id": "823adb36c4c8a7175143ae2f71ba5139",
+    "source": "nerum",
+    "title": "원데이 면접 컨설팅 및 모의면접",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "면접 완성",
+    "apply_period": "2026.10.16(금) ~ 2026.11.13(금)",
+    "edu_period": "2026.11.20(금) ~ 2026.11.20(금)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=823adb36c4c8a7175143ae2f71ba5139&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-10-16T06:51:09.736470+00:00",
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
+  },
+  {
+    "id": "f93cc83f565984ea62e6e9c503ae1df2",
+    "source": "nerum",
+    "title": "2026년 조선내화(중견기업) 채용설명회(채용추천 연계)",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "조선내화(주) 하반기 채용 계획에 맞춰 채용설명회가 운영되오니 많은 참여 바랍니다.",
+    "apply_period": "2026.10.16(금) ~ 2026.11.02(월)",
+    "edu_period": "2026.11.03(화) ~ 2026.11.03(화)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=f93cc83f565984ea62e6e9c503ae1df2&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-10-16T06:51:09.736470+00:00",
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
+  },
+  {
+    "id": "a9af9691afc4eeb91cf954226fd9f927",
+    "source": "nerum",
+    "title": "(온라인 특강) 지방분권과 지역정치의 이해",
+    "org": "글로컬대학사업단",
+    "type": "온라인(비대면)",
+    "desc": "지방분권의 개념과 정책, 지방의회의 권한과 실제 사례를 통해 지역정치의 운영 방식을 이해하는 온라인 특강 프로그램",
+    "apply_period": "2026.10.16(금) ~ 2026.10.31(토)",
+    "edu_period": "2026.11.01(일) ~ 2026.11.30(월)",
+    "tags": [
+      "시민정신",
+      "도전정신",
+      "자기관리",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a9af9691afc4eeb91cf954226fd9f927&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-10-16T06:51:09.736470+00:00",
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
+  },
+  {
+    "id": "83768f437e2cfbb31dd752a041462f9d",
+    "source": "nerum",
+    "title": "원데이 자소서 특강 및 컨설팅",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "자소서 완성",
+    "apply_period": "2026.10.15(목) ~ 2026.11.09(월)",
+    "edu_period": "2026.11.13(금) ~ 2026.11.13(금)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=83768f437e2cfbb31dd752a041462f9d&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-10-16T06:51:09.736470+00:00",
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
+  },
+  {
     "id": "b72eed0d6d1597da00c18b4a2f9ec8ff",
     "source": "nerum",
     "title": "2026년 하반기 IP 콘서트(3회차)",
@@ -16,7 +92,24 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b72eed0d6d1597da00c18b4a2f9ec8ff&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-15T07:07:54.392123+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
+  },
+  {
+    "id": "e620ed0de99b22b15dc073f313f72be2",
+    "source": "nerum",
+    "title": "[재 맞 고] (기업 탐방)「한국전력공사 전력설비 견학」",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "한국전력공사 밀양 부북 변전소 및 ESS 견학",
+    "apply_period": "2026.10.16(금) ~ 2026.11.04(수)",
+    "edu_period": "2025.11.11(화) ~ 2026.11.11(수)",
+    "tags": [
+      "의사소통",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e620ed0de99b22b15dc073f313f72be2&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-10-16T06:51:09.736470+00:00",
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "155522425afa363bde50e866058fb7f2",
@@ -35,7 +128,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=155522425afa363bde50e866058fb7f2&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-13T09:06:32.866103+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "d94b4f2f1742e065422fead06fcb20a1",
@@ -54,7 +147,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d94b4f2f1742e065422fead06fcb20a1&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-12T08:49:08.801507+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "ac47b6e9dff6acf2e2a2f6868535c66d",
@@ -73,7 +166,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=ac47b6e9dff6acf2e2a2f6868535c66d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-08T08:33:57.732590+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "feeef63afdd2ac0267a8a1c0d7ee46d8",
@@ -92,7 +185,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=feeef63afdd2ac0267a8a1c0d7ee46d8&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-08T08:33:57.732590+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "dd111e32652dd533c1395ae6dd464c20",
@@ -111,7 +204,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dd111e32652dd533c1395ae6dd464c20&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-08T08:33:57.732590+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "dfe59fbcffd1011b077fc42bb58adc09",
@@ -129,7 +222,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dfe59fbcffd1011b077fc42bb58adc09&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-08T08:33:57.732590+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "9d3c8ad590f1f9ce8d9dfb657234a6f9",
@@ -148,7 +241,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=9d3c8ad590f1f9ce8d9dfb657234a6f9&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "4361020fc76e3f9268b36e0a5558963b",
@@ -167,7 +260,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=4361020fc76e3f9268b36e0a5558963b&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "fd9be541810cbb9a36eb0fd069af4586",
@@ -186,7 +279,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=fd9be541810cbb9a36eb0fd069af4586&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "95d6b1e4944c0aa5e99513abebf9aec0",
@@ -205,7 +298,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=95d6b1e4944c0aa5e99513abebf9aec0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "cd156f0f0c7c0ec6d5b493dae244c6fb",
@@ -224,7 +317,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=cd156f0f0c7c0ec6d5b493dae244c6fb&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "38fc77b926ca891b4a84455164c4d5bd",
@@ -243,7 +336,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=38fc77b926ca891b4a84455164c4d5bd&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "2bca8c950ba8b48a34d4c99ce4dae701",
@@ -262,7 +355,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2bca8c950ba8b48a34d4c99ce4dae701&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-02T08:07:15.706814+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   },
   {
     "id": "0434b38096fee10854d563af08ea0647",
@@ -282,104 +375,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0434b38096fee10854d563af08ea0647&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-10-09T08:38:49.866186+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
-  },
-  {
-    "id": "56bb4325eb235f1ba3e3f0acae60acaf",
-    "source": "nerum",
-    "title": "2026 진주 K-기업가정신 국제포럼 세션Ⅲ (글로벌 기업가정신 세션)",
-    "org": "기업가정신센터",
-    "type": "오프라인(대면)",
-    "desc": "K-기업가정신 체험 성지순례, 국내외 글로벌 기관 세션, 국내외 기업가정신 전문가 세션 등",
-    "apply_period": "2026.09.30(수) ~ 2026.10.16(금)",
-    "edu_period": "2026.10.20(화) ~ 2026.10.20(화)",
-    "tags": [
-      "문제해결",
-      "시민정신",
-      "의사소통",
-      "도전정신",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=56bb4325eb235f1ba3e3f0acae60acaf&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-10-12T08:49:08.801507+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
-  },
-  {
-    "id": "654f31cbe4da4058c7daf1158e756f9e",
-    "source": "nerum",
-    "title": "2026 진주 K-기업가정신 국제포럼 세션Ⅱ(4대기업 & 우주항공 방산 세션)",
-    "org": "기업가정신센터",
-    "type": "오프라인(대면)",
-    "desc": "K-기업가정신 체험 성지순례, 국내외 글로벌 기관세션, 국내외 기업가정신 전문가 세션 등",
-    "apply_period": "2026.09.30(수) ~ 2026.10.16(금)",
-    "edu_period": "2026.10.19(월) ~ 2026.10.19(월)",
-    "tags": [
-      "문제해결",
-      "시민정신",
-      "의사소통",
-      "도전정신",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=654f31cbe4da4058c7daf1158e756f9e&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-10-13T09:06:32.866103+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
-  },
-  {
-    "id": "8e2d4750ff0cb26e6d7b48704c68198c",
-    "source": "nerum",
-    "title": "2026 진주 K-기업가정신 국제포럼 세션Ⅰ(기조연설 & 유엔 경제사회이사회)",
-    "org": "기업가정신센터",
-    "type": "오프라인(대면)",
-    "desc": "K-기업가정신 체험 성지순례, 국내외 글로벌 기관 세션, 국내외 기업가정신 전문가 세션 등",
-    "apply_period": "2026.09.30(수) ~ 2026.10.16(금)",
-    "edu_period": "2026.10.19(월) ~ 2026.10.19(월)",
-    "tags": [
-      "문제해결",
-      "시민정신",
-      "의사소통",
-      "도전정신",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8e2d4750ff0cb26e6d7b48704c68198c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-10-13T09:06:32.866103+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
-  },
-  {
-    "id": "8cbb08c504d319d65c8274722adf0cda",
-    "source": "nerum",
-    "title": "제10회 GNU 토론대회",
-    "org": "철학과",
-    "type": "오프라인(대면)",
-    "desc": "제10회 GNU 토론대회",
-    "apply_period": "2026.10.01(목) ~ 2026.10.19(월)",
-    "edu_period": "2026.11.06(금) ~ 2026.11.20(금)",
-    "tags": [
-      "문제해결",
-      "의사소통",
-      "시민정신",
-      "도전정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8cbb08c504d319d65c8274722adf0cda&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-10-15T07:07:54.392123+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
-  },
-  {
-    "id": "2d5cc2feb6a0a6fc892628f97de8abac",
-    "source": "nerum",
-    "title": "2026년 하반기 부산교통공사와 함께 하는 부울경 연합 직무체험 멘토링 캠프",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "부산교통공사에서 수행중인 업무 및 역할에 대한 직무 교육 과정",
-    "apply_period": "2026.09.28(월) ~ 2026.10.20(화)",
-    "edu_period": "2026.10.26(월) ~ 2026.10.27(화)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2d5cc2feb6a0a6fc892628f97de8abac&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-10-15T07:07:54.392123+00:00",
-    "fetched_at": "2026-10-15T07:07:54.392123+00:00"
+    "fetched_at": "2026-10-16T06:51:09.736470+00:00"
   }
 ]
