@@ -1,5 +1,64 @@
 [
   {
+    "id": "1b7262f68ed2b13d8f3de3f7e41298a8",
+    "source": "nerum",
+    "title": "원데이 자소서 특강 및 컨설팅 [추가 2명 모집]",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "자소서 완성",
+    "apply_period": "2026.11.09(월) ~ 2026.11.11(수)",
+    "edu_period": "2026.11.13(금) ~ 2026.11.13(금)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1b7262f68ed2b13d8f3de3f7e41298a8&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "b34dd8b2f2170931a51853b8ed103a3e",
+    "source": "nerum",
+    "title": "원데이 면접 컨설팅 및 모의면접",
+    "org": "대학일자리플러스센터",
+    "type": "오프라인(대면)",
+    "desc": "면접 완성",
+    "apply_period": "2026.10.26(월) ~ 2026.11.16(월)",
+    "edu_period": "2026.11.20(금) ~ 2026.11.20(금)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b34dd8b2f2170931a51853b8ed103a3e&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "25d7bbe7dd81049be3097ddc4a7f5511",
+    "source": "nerum",
+    "title": "[역사교육과]2026학년도 추계 정기 전공 답사",
+    "org": "역사교육과",
+    "type": "오프라인(대면)",
+    "desc": "2026학년도 추계 정기 전공 답사 - 경주",
+    "apply_period": "2026.11.04(수) ~ 2026.11.10(화)",
+    "edu_period": "2026.11.04(수) ~ 2026.11.06(금)",
+    "tags": [
+      "의사소통",
+      "창의융합",
+      "문제해결",
+      "시민정신",
+      "자기관리",
+      "도전정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=25d7bbe7dd81049be3097ddc4a7f5511&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
     "id": "3482d009e7e998fd5e9504355fdf10be",
     "source": "nerum",
     "title": "2026학년도 2학기(11월) 대인관계소통향상 집단상담(C) (매주 목_4주간,가좌캠)",
@@ -16,7 +75,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3482d009e7e998fd5e9504355fdf10be&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-07T08:29:54.443586+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "42b45ddcd3d625a03071ab4174e6987c",
@@ -35,7 +94,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=42b45ddcd3d625a03071ab4174e6987c&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-07T08:29:54.443586+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "2ba296d1bd51e5057c97e5ee46985951",
@@ -54,7 +113,64 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2ba296d1bd51e5057c97e5ee46985951&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "a0539aa3fabe4fd3cfb1ab0b7ca5faec",
+    "source": "nerum",
+    "title": "재맞고 점프업프로그램「실전 구직기의 스트레스& 번아웃 관리」",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
+    "apply_period": "2026.11.09(월) ~ 2026.11.13(금)",
+    "edu_period": "2026.11.24(화) ~ 2026.11.24(화)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a0539aa3fabe4fd3cfb1ab0b7ca5faec&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "99a94b51a4dc4b6c4e1d5e7349abdec7",
+    "source": "nerum",
+    "title": "재맞고 점프업프로그램「실전 구직기의 스트레스& 번아웃 관리」",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
+    "apply_period": "2026.11.09(월) ~ 2026.11.13(금)",
+    "edu_period": "2026.11.17(화) ~ 2026.11.17(화)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=99a94b51a4dc4b6c4e1d5e7349abdec7&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "c83861731d0679b1b9862f97e1b9a69f",
+    "source": "nerum",
+    "title": "재맞고 빌드업프로그램「진로 탐색기의 진로 불안 극복 프로젝트」",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
+    "apply_period": "2026.11.09(월) ~ 2026.11.13(금)",
+    "edu_period": "2026.11.18(수) ~ 2026.11.18(수)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c83861731d0679b1b9862f97e1b9a69f&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "bc6fc3116aa5f42de7847fa07ecdc98d",
@@ -73,7 +189,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bc6fc3116aa5f42de7847fa07ecdc98d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "3f0da6101c93ce70f29a90ea8a8b91f8",
@@ -92,7 +208,26 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3f0da6101c93ce70f29a90ea8a8b91f8&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
+  },
+  {
+    "id": "df41d7f4cfcdfeadba46cd2b4a1a213a",
+    "source": "nerum",
+    "title": "재맞고 빌드업프로그램「진로 탐색기의 진로 불안 극복 프로젝트」",
+    "org": "대학일자리플러스센터",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
+    "apply_period": "2026.11.09(월) ~ 2026.11.13(금)",
+    "edu_period": "2026.11.16(월) ~ 2026.11.16(월)",
+    "tags": [
+      "자기관리",
+      "도전정신",
+      "의사소통",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=df41d7f4cfcdfeadba46cd2b4a1a213a&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-09T09:22:55.800034+00:00",
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "46bdf6c3b13209092fd16c9ee6d1b77e",
@@ -111,7 +246,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=46bdf6c3b13209092fd16c9ee6d1b77e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "2715e9ca83fa2d07d33292e14f7a25a4",
@@ -130,7 +265,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2715e9ca83fa2d07d33292e14f7a25a4&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "3900638ae9eda0f9484d785e925fa7a4",
@@ -149,7 +284,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3900638ae9eda0f9484d785e925fa7a4&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "a76ff14205f31013aa4bba97b0c3361e",
@@ -168,7 +303,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a76ff14205f31013aa4bba97b0c3361e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "6a5661662ce99a94b0ee7142a63e7d48",
@@ -187,7 +322,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6a5661662ce99a94b0ee7142a63e7d48&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "af253c22f9eb319e3f9927cbe768bf9e",
@@ -206,7 +341,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=af253c22f9eb319e3f9927cbe768bf9e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "995707f25d3aaaed064593788f356dca",
@@ -225,7 +360,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=995707f25d3aaaed064593788f356dca&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   },
   {
     "id": "7fc8ff7a5fb2898786fde73c0412da1a",
@@ -244,139 +379,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7fc8ff7a5fb2898786fde73c0412da1a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "adb69a713a3f0c5ad57124c0c31c4206",
-    "source": "nerum",
-    "title": "재맞고 점프업프로그램「미래 일기 쓰기, 비전 보드로 그리는 5년 후의 나」",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.17(화) ~ 2026.11.17(화)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=adb69a713a3f0c5ad57124c0c31c4206&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "843badb911a2c0798ef26abddfac88cb",
-    "source": "nerum",
-    "title": "재맞고 빌드업프로그램「미래 일기 쓰기, 비전 보드로 그리는 5년 후의 나」",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.16(월) ~ 2026.11.16(월)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=843badb911a2c0798ef26abddfac88cb&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "c41ee2b1baa71678a4e51e5bcc5f7df1",
-    "source": "nerum",
-    "title": "재맞고 점프업프로그램「내 취업 준비 지금 어디까지 왔을까?(with 취업준비 체크리스트·채용공고)」",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "취업준비 현황 점검, 직무탐색, 부족한 부분 확인, 취업준비 우선순위 설정",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.17(화) ~ 2026.11.17(화)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c41ee2b1baa71678a4e51e5bcc5f7df1&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "780235f4629e5930f7c63098fff4e1cc",
-    "source": "nerum",
-    "title": "재맞고 빌드업프로그램 「취업할 때 나는 이것만큼은 포기 못해! (with 직업가치관 카드·직업카드)」",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "소규모 집단상담을 통해 학생들이 서로의 관심 분야와 경험을 공유하며 다양한 진로, 취업에 대한 정보를 자연스럽게 얻을 수 있는 기회를 제공",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.16(월) ~ 2026.11.16(월)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=780235f4629e5930f7c63098fff4e1cc&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "48076821505dabb9353b81b8f399ad30",
-    "source": "nerum",
-    "title": "재맞고 점프업프로그램「졸업은 다가오는데, 취업 준비는 어디까지? 나만의 취업 실행계획 세우기」",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "취업준비점검, 직무별 준비요소 정리, 취업준비 우선순위 설정",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.16(월) ~ 2026.11.16(월)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=48076821505dabb9353b81b8f399ad30&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "40682479364c63cd14c6606fa5709826",
-    "source": "nerum",
-    "title": "재맞고 점프업프로그램「남들의 정답 말고 ‘나의 기준’ : 나에게 딱 맞는 좋은 직장의 조건」",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "취업준비 현황 점검, 직무탐색, 부족한 부분 확인, 취업준비 우선순위 설정",
-    "apply_period": "2026.11.06(금) ~ 2026.11.13(금)",
-    "edu_period": "2026.11.24(화) ~ 2026.11.24(화)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=40682479364c63cd14c6606fa5709826&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-06T09:01:46.835736+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
-  },
-  {
-    "id": "377698259f663061bcf90c83c78e6e99",
-    "source": "nerum",
-    "title": "재맞고 점프업프로그램「취업 어몽 어스",
-    "org": "대학일자리플러스센터",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "목표 직무와 관련해서 자신이 준비해야 하는 역량들을 확인하고 3개월간 취업활동 계획 구체화하기",
-    "apply_period": "2026.11.06(금) ~ 2026.11.20(금)",
-    "edu_period": "2026.11.20(금) ~ 2026.11.20(금)",
-    "tags": [
-      "문제해결",
-      "자기관리",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=377698259f663061bcf90c83c78e6e99&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-08T08:43:36.849306+00:00",
-    "fetched_at": "2026-11-08T08:43:36.849306+00:00"
+    "fetched_at": "2026-11-09T09:22:55.800034+00:00"
   }
 ]
