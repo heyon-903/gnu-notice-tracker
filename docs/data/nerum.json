@@ -1,373 +1,322 @@
 [
   {
-    "id": "0fdca93fe2ca6989648932150bba6938",
+    "id": "1eae56ccca17d9938cb50117b8b29786",
     "source": "nerum",
-    "title": "우리가 미처 몰랐던, 우리가 알아야 할 동물권의 모든 것(4차 특강 참가자 모집)",
-    "org": "여성연구소",
-    "type": "오프라인(대면)",
-    "desc": "동물권의 개념적 토대, 제도 현황, 이슈와 쟁점, 관련 진로 탐색 활동을 단계적으로 짚어보는 시리즈 특강 중 네 번째 강연입니다.",
-    "apply_period": "2026.11.21(토) ~ 2026.11.30(월)",
-    "edu_period": "2026.12.02(수) ~ 2026.12.02(수)",
-    "tags": [
-      "시민정신",
-      "도전정신",
-      "문제해결",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0fdca93fe2ca6989648932150bba6938&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-22T09:29:24.565023+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "629b1800238e787733d5004942be0d82",
-    "source": "nerum",
-    "title": "<동일 검사 중복 참여 불가> 2026년도 '나와 너를 이해하는 단체심리검사-집단상담' - 가좌캠퍼스 12월 CST(성격강점검사)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "2026년도 '나와 너를 이해하는 단체심리검사-집단상담' - 가좌캠퍼스 12월 CST(성격강점검사)",
-    "apply_period": "2026.11.20(금) ~ 2026.11.26(목)",
-    "edu_period": "2026.12.01(화) ~ 2026.12.01(화)",
-    "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=629b1800238e787733d5004942be0d82&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-20T09:48:47.346831+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "2e9e76780c099e97ad33bf287ffb033c",
-    "source": "nerum",
-    "title": "[국립대학육성사업] GNU 특성화 기반 글로벌 확산 선도사업(GNU-SUPER 17) 프랑코포니 글로벌 역량 특강 시리즈",
-    "org": "불어불문학과",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "프랑스어 활용도가 높고 성장 잠재력이 있는 프랑스어권 시장 진출에 대해 현지 전문가의 경험을 통한 우리 기업 진출 현황을 이해하며 현지 비즈니스 및 취업 환경에 대한 정보 제공",
-    "apply_period": "2026.11.20(금) ~ 2026.11.25(수)",
-    "edu_period": "2026.11.25(수) ~ 2026.11.25(수)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "문제해결",
-      "의사소통",
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2e9e76780c099e97ad33bf287ffb033c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-20T09:48:47.346831+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "d09787cc44b130b58eb725e5102366f8",
-    "source": "nerum",
-    "title": "창업 토크 프로그램",
-    "org": "창업교육혁신센터",
-    "type": "오프라인(대면)",
-    "desc": "선배창업가 강연(창업 노하우 및 스토리 공유), 패널토크 및 네트워킹 등",
-    "apply_period": "2026.11.20(금) ~ 2026.11.23(월)",
-    "edu_period": "2026.11.25(수) ~ 2026.11.25(수)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "자기관리",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d09787cc44b130b58eb725e5102366f8&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-20T09:48:47.346831+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "c544cddcf38e4c6a4ef85c764dbc9b07",
-    "source": "nerum",
-    "title": "2026학년도 더 지니어스(The GeNiUs) 학습법 특강(4차)_대학생을 위한 문해력 향상과 AI 답변 검증법",
+    "title": "구.경남과학기술대학교 비교과인증(JLPT 10점)원본제출 필요",
     "org": "교육과정과",
     "type": "온라인(비대면)",
-    "desc": "2026학년도 더 지니어스(The GeNiUs) 학습법 특강(4차)_대학생을 위한 문해력 향상과 AI 답변 검증법",
-    "apply_period": "2026.11.20(금) ~ 2026.12.02(수)",
-    "edu_period": "2026.12.07(월) ~ 2026.12.07(월)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
     "tags": [
-      "자기관리",
-      "의사소통",
-      "문제해결",
-      "창의융합"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c544cddcf38e4c6a4ef85c764dbc9b07&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-20T09:48:47.346831+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "6705a7342909c57752c22af4a6bcb92f",
-    "source": "nerum",
-    "title": "[2차-오프라인 실습] 2026학년도 신기술 기반 핵심역량 강화 프로그램",
-    "org": "교육과정과",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "AI를 활용한 영상 콘텐츠 제작 파이프라인 설계 및 실습",
-    "apply_period": "2026.11.19(목) ~ 2026.11.25(수)",
-    "edu_period": "2026.12.04(금) ~ 2026.12.04(금)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6705a7342909c57752c22af4a6bcb92f&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-19T09:59:52.462111+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "bafb1d9d59974267538c1b2d1f359f9f",
-    "source": "nerum",
-    "title": "[1차-온라인교육] 2026학년도 신기술 기반 핵심역량 강화 프로그램",
-    "org": "교육과정과",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "AI를 활용한 영상 콘텐츠 제작 파이프라인 설계 및 실습",
-    "apply_period": "2026.11.19(목) ~ 2026.11.25(수)",
-    "edu_period": "2026.11.26(목) ~ 2026.12.02(수)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=bafb1d9d59974267538c1b2d1f359f9f&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-19T09:59:52.462111+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "d0147b3762348ddca09297c14fa44958",
-    "source": "nerum",
-    "title": "[진로탐색] 진로 포트폴리오 및 진로 로드맵 특강",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "진로 포트폴리오 및 진로 로드맵 특강",
-    "apply_period": "2026.11.18(수) ~ 2026.11.29(일)",
-    "edu_period": "2026.12.03(목) ~ 2026.12.03(목)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=d0147b3762348ddca09297c14fa44958&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-18T09:53:03.153534+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "5b75b153c01718310b3580b3cae73ffa",
-    "source": "nerum",
-    "title": "칠암캠퍼스:2026학년도 '나와 너를 이해하는 단체심리검사'(동일 검사 중복 참여 불가) - 12월 4일 TCI(기질 및 성격 검사)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "칠암캠퍼스:2026학년도 '나와 너를 이해하는 단체심리검사'(동일 검사 중복 참여 불가) - 12월 4일 TCI(기질 및 성격 검사)",
-    "apply_period": "2026.11.17(화) ~ 2026.12.01(화)",
-    "edu_period": "2026.12.04(금) ~ 2026.12.04(금)",
-    "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
       "시민정신"
     ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=5b75b153c01718310b3580b3cae73ffa&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-17T10:21:53.862196+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1eae56ccca17d9938cb50117b8b29786&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
   },
   {
-    "id": "2d3353da00671d7314be1e4ac83473df",
+    "id": "2f85338d5b5e4c1c6c84739de24d922c",
     "source": "nerum",
-    "title": "[진로P] 기업이 원하는 인재상과 성공취업 전략",
-    "org": "대학일자리플러스센터",
-    "type": "오프라인(대면)",
-    "desc": "전문가 초청 특강",
-    "apply_period": "2026.11.17(화) ~ 2026.11.27(금)",
-    "edu_period": "2026.12.02(수) ~ 2026.12.02(수)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2d3353da00671d7314be1e4ac83473df&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-17T10:21:53.862196+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "7356ec5e291a7b39f0fdd71171c6e6dc",
-    "source": "nerum",
-    "title": "[건축공학부 건축시스템공학전공]전공자격증 1급 취득",
-    "org": "건축시스템공학전공",
-    "type": "온라인/오프라인(혼합)",
-    "desc": "전공관련 1급 자격증 취득",
-    "apply_period": "2026.11.01(일) ~ 2026.12.31(목)",
-    "edu_period": "2026.11.01(일) ~ 2026.12.31(목)",
-    "tags": [
-      "자기관리",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7356ec5e291a7b39f0fdd71171c6e6dc&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-17T10:21:53.862196+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "2bf4db9834f3550b423b72a9bd51f581",
-    "source": "nerum",
-    "title": "2026학년도 ESG 전문가 특강",
-    "org": "회계세무학부",
-    "type": "오프라인(대면)",
-    "desc": "AI 시대의 미래 역량과 ESG 기반의 사회적 책임 의식을 갖춘 인재 양성",
-    "apply_period": "2026.11.17(화) ~ 2026.11.26(목)",
-    "edu_period": "2026.11.27(금) ~ 2026.11.27(금)",
-    "tags": [
-      "창의융합",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2bf4db9834f3550b423b72a9bd51f581&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-17T10:21:53.862196+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "0a6d54136d82db0527737e6e6caf4d0b",
-    "source": "nerum",
-    "title": "'경상미전' 미술교육과 학생 작품전시회",
-    "org": "미술교육과",
-    "type": "오프라인(대면)",
-    "desc": "재학생 학생 작품전시회",
-    "apply_period": "2026.11.06(금) ~ 2026.12.07(월)",
-    "edu_period": "2026.12.08(화) ~ 2026.12.21(월)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0a6d54136d82db0527737e6e6caf4d0b&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-16T09:10:11.767039+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "5c882656b39049c7ce956ac082733979",
-    "source": "nerum",
-    "title": "제4차 GNU-SDGs/ESG 재학생 아카데미",
-    "org": "지속가능발전센터",
-    "type": "오프라인(대면)",
-    "desc": "개인의 행복과 조직의 성공을 위한 지속가능한 리더십",
-    "apply_period": "2026.11.17(화) ~ 2026.11.23(월)",
-    "edu_period": "2026.11.25(수) ~ 2026.11.25(수)",
-    "tags": [
-      "시민정신",
-      "문제해결",
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=5c882656b39049c7ce956ac082733979&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-17T10:21:53.862196+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "7ad0a0e550f6a82dfa850053fe4f9d64",
-    "source": "nerum",
-    "title": "[글로컬대학사업]2026학년도「나의 성장을 디지털배지하다」숏폼 영상 공모전",
+    "title": "구.경남과학기술대학교 비교과인증(JPT 10점)",
     "org": "교육과정과",
     "type": "온라인(비대면)",
-    "desc": "숏폼 제작 공모전",
-    "apply_period": "2026.11.16(월) ~ 2026.11.25(수)",
-    "edu_period": "2026.11.16(월) ~ 2026.12.11(금)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
     "tags": [
-      "창의융합",
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2f85338d5b5e4c1c6c84739de24d922c&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "aa8d024ad2cb1c645475948e9d7e6f52",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(HSK 10점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=aa8d024ad2cb1c645475948e9d7e6f52&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "80550ec3a97907dff8588e3638875320",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(텝스, 뉴텝스 10점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80550ec3a97907dff8588e3638875320&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "6dcb4f62210726553ba28c9d2f0a1ab0",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토플 10점)원본제출 필요",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6dcb4f62210726553ba28c9d2f0a1ab0&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "3c026bf420a983d988db935a367d068d",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토익 10점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3c026bf420a983d988db935a367d068d&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "8a908c41627178e925813ae873f11652",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(JLPT 9점)원본제출 필요",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8a908c41627178e925813ae873f11652&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "18f83367f8fb217053637ef1af6fcd1b",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(JPT 9점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=18f83367f8fb217053637ef1af6fcd1b&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "99424c5c128b06ae54a2a59cec094597",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(HSK 9점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=99424c5c128b06ae54a2a59cec094597&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "6a08b34de0b0d258545f48b60025c707",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(텝스, 뉴텝스 9점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6a08b34de0b0d258545f48b60025c707&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "2c30838b4f5b11b946b648900a44ba62",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토플 9점)원본제출 필요",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2c30838b4f5b11b946b648900a44ba62&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "c9c2c90a612cb1896dac21b3bb875e28",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토익 9점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.05.18(월) ~ 2026.07.03(금)",
+    "tags": [
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c9c2c90a612cb1896dac21b3bb875e28&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "441530732cdb9c6591e6a59755e43353",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(JLPT 8점)원본제출 필수",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
       "의사소통"
     ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7ad0a0e550f6a82dfa850053fe4f9d64&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-16T09:10:11.767039+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=441530732cdb9c6591e6a59755e43353&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
   },
   {
-    "id": "8e0c572732408a2c64e7448e186145c2",
+    "id": "7bc454023f041d596b9c8e16868b4303",
     "source": "nerum",
-    "title": "진로 심리상담 캠프(통영캠퍼스)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "심리와 진로탐색 프로그램을 통한 자기이해와 진로정체감 형성하도록 돕는 진로캠프",
-    "apply_period": "2026.11.12(목) ~ 2026.11.27(금)",
-    "edu_period": "2026.12.01(화) ~ 2026.12.01(화)",
+    "title": "구.경남과학기술대학교 비교과인증(JPT 8점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
     "tags": [
-      "의사소통",
-      "자기관리",
-      "문제해결",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7bc454023f041d596b9c8e16868b4303&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "0bd453073cc041253dd4bbf5b8553834",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(HSK 8점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0bd453073cc041253dd4bbf5b8553834&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "0db2add391a936f34bea6ce446b453a7",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(텝스, 뉴텝스 8점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0db2add391a936f34bea6ce446b453a7&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "dd94f288a18d312284455e5194283f3e",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토플 8점)원본제출 필수",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dd94f288a18d312284455e5194283f3e&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "642a0c6accdf0f41ff4e385c60c9edf5",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(토익 8점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=642a0c6accdf0f41ff4e385c60c9edf5&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+  },
+  {
+    "id": "98c2afa0300cc4bbad20b91e3f0d9ef0",
+    "source": "nerum",
+    "title": "구.경남과학기술대학교 비교과인증(JLPT 7점) 원본제출 필수",
+    "org": "교육과정과",
+    "type": "오프라인(대면)",
+    "desc": "구.경남과학기술대학교 비교과인증",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "tags": [
       "시민정신"
     ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8e0c572732408a2c64e7448e186145c2&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-13T09:14:51.490332+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=98c2afa0300cc4bbad20b91e3f0d9ef0&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
   },
   {
-    "id": "0454719d3f44bd4cd09367b056697d39",
+    "id": "efbcce40ed879794a7f1252b6c20ee57",
     "source": "nerum",
-    "title": "2026학년도 2학기 정신건강증진교육 - 마약류 오남용 예방교육(대면)",
-    "org": "학생상담센터",
-    "type": "오프라인(대면)",
-    "desc": "한국마약퇴치운동본부와 함께하는 마약류 오남용 예방교육",
-    "apply_period": "2026.11.12(목) ~ 2026.11.22(일)",
-    "edu_period": "2026.11.27(금) ~ 2026.11.27(금)",
+    "title": "구.경남과학기술대학교 비교과인증(JPT 7점)",
+    "org": "교육과정과",
+    "type": "온라인(비대면)",
+    "desc": "구.경남과학기술대학교 비교과인증(JPT 7점)",
+    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
+    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
     "tags": [
-      "자기관리",
-      "문제해결",
-      "의사소통",
       "시민정신"
     ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0454719d3f44bd4cd09367b056697d39&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-12T09:28:24.002027+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "79bc06495b9fc6003f627f55bfa0e5e6",
-    "source": "nerum",
-    "title": "창업 기초 역량 강화 교육 1차",
-    "org": "기업가정신센터",
-    "type": "온라인(비대면)",
-    "desc": "학생들의 창업에 대한 이해와 관심을 끌어 올리기 위해 선배 창업가의 특강, 창업 활동에 대한 전반적인 교육을 위한 전문가를 섭외하여 비대면 특강 진행",
-    "apply_period": "2026.11.11(수) ~ 2026.11.24(화)",
-    "edu_period": "2026.11.25(수) ~ 2026.11.25(수)",
-    "tags": [
-      "창의융합",
-      "도전정신",
-      "자기관리",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=79bc06495b9fc6003f627f55bfa0e5e6&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-11T08:59:28.019360+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "09bb1160f6750f8c926d99db3a701bcd",
-    "source": "nerum",
-    "title": "[엥커] 실무 일경험을 위한 현직자 멘토와 함께하는 2026 부트캠프(2차)",
-    "org": "대학일자리플러스센터",
-    "type": "온라인(비대면)",
-    "desc": "현직자 멘토와 5주간 협업과제 수행을 통한 관련 업무 간접경험으로 취업준비도 획기적 향상",
-    "apply_period": "2026.11.11(수) ~ 2026.11.26(목)",
-    "edu_period": "2026.12.02(수) ~ 2027.01.31(일)",
-    "tags": [
-      "자기관리",
-      "도전정신",
-      "의사소통",
-      "문제해결"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=09bb1160f6750f8c926d99db3a701bcd&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-11T08:59:28.019360+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
-  },
-  {
-    "id": "180352009f0b88a760f1ede9b611cd8c",
-    "source": "nerum",
-    "title": "선배로부터 듣는 진로와 취업특강",
-    "org": "사학과",
-    "type": "오프라인(대면)",
-    "desc": "선배를 통해 듣는 현장경험과 진로 준비과정, 직무체험",
-    "apply_period": "2026.11.09(월) ~ 2026.11.25(수)",
-    "edu_period": "2026.11.16(월) ~ 2026.11.25(수)",
-    "tags": [
-      "의사소통",
-      "문제해결",
-      "도전정신",
-      "자기관리"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=180352009f0b88a760f1ede9b611cd8c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-11T08:59:28.019360+00:00",
-    "fetched_at": "2026-11-22T09:29:24.565023+00:00"
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=efbcce40ed879794a7f1252b6c20ee57&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
+    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
   }
 ]
