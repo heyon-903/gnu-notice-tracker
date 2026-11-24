@@ -1,5 +1,62 @@
 [
   {
+    "id": "768e0b7564bc35bd1bf1371f83461409",
+    "source": "nerum",
+    "title": "2026학년도 학습 단체심리검사(MLST-II) 프로그램 6차",
+    "org": "학생상담센터",
+    "type": "온라인(비대면)",
+    "desc": "2026학년도 학습 단체심리검사(MLST-II) 프로그램 6차",
+    "apply_period": "2026.11.24(화) ~ 2026.12.08(화)",
+    "edu_period": "2026.12.10(목) ~ 2026.12.10(목)",
+    "tags": [
+      "문제해결",
+      "자기관리",
+      "의사소통",
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=768e0b7564bc35bd1bf1371f83461409&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
+  },
+  {
+    "id": "a413208b38f3b3dcc1d59867c65ae34e",
+    "source": "nerum",
+    "title": "진로 심리상담 캠프(칠암캠퍼스)",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "심리와 진로탐색 프로그램을 통한 자기이해와 진로정체감 형성하도록 돕는 진로캠프",
+    "apply_period": "2026.11.24(화) ~ 2026.12.01(화)",
+    "edu_period": "2026.12.04(금) ~ 2026.12.04(금)",
+    "tags": [
+      "의사소통",
+      "자기관리",
+      "문제해결",
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a413208b38f3b3dcc1d59867c65ae34e&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
+  },
+  {
+    "id": "b3d409f620424e00fbef45b9fb8e7302",
+    "source": "nerum",
+    "title": "진로 심리상담 캠프(통영캠퍼스 재모집)",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "심리와 진로탐색 프로그램을 통한 자기이해와 진로정체감 형성하도록 돕는 진로캠프",
+    "apply_period": "2026.11.24(화) ~ 2026.11.30(월)",
+    "edu_period": "2026.12.03(목) ~ 2026.12.03(목)",
+    "tags": [
+      "의사소통",
+      "자기관리",
+      "문제해결",
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b3d409f620424e00fbef45b9fb8e7302&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
+  },
+  {
     "id": "1eae56ccca17d9938cb50117b8b29786",
     "source": "nerum",
     "title": "구.경남과학기술대학교 비교과인증(JLPT 10점)원본제출 필요",
@@ -13,7 +70,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1eae56ccca17d9938cb50117b8b29786&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "2f85338d5b5e4c1c6c84739de24d922c",
@@ -29,7 +86,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2f85338d5b5e4c1c6c84739de24d922c&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "aa8d024ad2cb1c645475948e9d7e6f52",
@@ -45,7 +102,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=aa8d024ad2cb1c645475948e9d7e6f52&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "80550ec3a97907dff8588e3638875320",
@@ -61,7 +118,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80550ec3a97907dff8588e3638875320&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "6dcb4f62210726553ba28c9d2f0a1ab0",
@@ -77,7 +134,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6dcb4f62210726553ba28c9d2f0a1ab0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "3c026bf420a983d988db935a367d068d",
@@ -93,7 +150,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3c026bf420a983d988db935a367d068d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "8a908c41627178e925813ae873f11652",
@@ -109,7 +166,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8a908c41627178e925813ae873f11652&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "18f83367f8fb217053637ef1af6fcd1b",
@@ -125,7 +182,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=18f83367f8fb217053637ef1af6fcd1b&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "99424c5c128b06ae54a2a59cec094597",
@@ -141,7 +198,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=99424c5c128b06ae54a2a59cec094597&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "6a08b34de0b0d258545f48b60025c707",
@@ -157,7 +214,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6a08b34de0b0d258545f48b60025c707&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "2c30838b4f5b11b946b648900a44ba62",
@@ -173,7 +230,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2c30838b4f5b11b946b648900a44ba62&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "c9c2c90a612cb1896dac21b3bb875e28",
@@ -189,7 +246,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=c9c2c90a612cb1896dac21b3bb875e28&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "441530732cdb9c6591e6a59755e43353",
@@ -205,7 +262,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=441530732cdb9c6591e6a59755e43353&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "7bc454023f041d596b9c8e16868b4303",
@@ -221,7 +278,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7bc454023f041d596b9c8e16868b4303&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "0bd453073cc041253dd4bbf5b8553834",
@@ -237,7 +294,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0bd453073cc041253dd4bbf5b8553834&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "0db2add391a936f34bea6ce446b453a7",
@@ -253,7 +310,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0db2add391a936f34bea6ce446b453a7&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   },
   {
     "id": "dd94f288a18d312284455e5194283f3e",
@@ -269,54 +326,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=dd94f288a18d312284455e5194283f3e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
-  },
-  {
-    "id": "642a0c6accdf0f41ff4e385c60c9edf5",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(토익 8점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "의사소통"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=642a0c6accdf0f41ff4e385c60c9edf5&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
-  },
-  {
-    "id": "98c2afa0300cc4bbad20b91e3f0d9ef0",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JLPT 7점) 원본제출 필수",
-    "org": "교육과정과",
-    "type": "오프라인(대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=98c2afa0300cc4bbad20b91e3f0d9ef0&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
-  },
-  {
-    "id": "efbcce40ed879794a7f1252b6c20ee57",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JPT 7점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증(JPT 7점)",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=efbcce40ed879794a7f1252b6c20ee57&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-23T10:27:41.859190+00:00"
+    "fetched_at": "2026-11-24T12:09:08.339402+00:00"
   }
 ]
