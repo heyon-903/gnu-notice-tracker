@@ -1,24 +1,40 @@
 [
   {
-    "id": "7ff59aef7c885a35d7ccdec859ee87c7",
+    "id": "e0352b19987d2d57bd8b163212872e94",
     "source": "nerum",
-    "title": "「2026 현장연계 진로교육(단과대 맞춤형) 비교과 프로그램」 제약공학과 맞춤형 취업·진로 현장 탐방",
-    "org": "제약공학과",
-    "type": "오프라인(대면)",
-    "desc": "진주바이오산업진흥원 및 국가독성과학연구소 현장 탐방·직무 체험",
-    "apply_period": "2026.11.25(수) ~ 2026.11.26(목)",
-    "edu_period": "2026.11.26(목) ~ 2026.11.26(목)",
+    "title": "[연장 모집] 2026학년도 신기술 기반 핵심역량 강화 프로그램(1차 온라인 교육)",
+    "org": "교육과정과",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "AI를 활용한 영상 콘텐츠 제작 파이프라인 설계 및 실습",
+    "apply_period": "2026.11.26(목) ~ 2026.11.29(일)",
+    "edu_period": "2026.11.30(월) ~ 2026.12.04(금)",
     "tags": [
-      "도전정신",
       "창의융합",
-      "문제해결",
-      "의사소통",
-      "자기관리",
-      "시민정신"
+      "도전정신",
+      "문제해결"
     ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=7ff59aef7c885a35d7ccdec859ee87c7&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e0352b19987d2d57bd8b163212872e94&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-26T10:35:19.404276+00:00",
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+  },
+  {
+    "id": "3ff133cf7d6c2f0dbe8e86a79b3ab372",
+    "source": "nerum",
+    "title": "창업 토크 프로그램",
+    "org": "창업교육혁신센터",
+    "type": "오프라인(대면)",
+    "desc": "선배창업가 강연(창업 노하우 및 스토리 공유), 패널토크 및 네트워킹 등",
+    "apply_period": "2026.11.26(목) ~ 2026.12.07(월)",
+    "edu_period": "2026.12.08(화) ~ 2026.12.08(화)",
+    "tags": [
+      "창의융합",
+      "도전정신",
+      "자기관리",
+      "문제해결"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3ff133cf7d6c2f0dbe8e86a79b3ab372&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-26T10:35:19.404276+00:00",
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "a860c4704fe5c39b3dc4dc0b24812cc3",
@@ -37,7 +53,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a860c4704fe5c39b3dc4dc0b24812cc3&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "80ee5357d57d91e1932fa66094d6461a",
@@ -56,7 +72,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80ee5357d57d91e1932fa66094d6461a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "42f132243496a5eb406e2d7da91c1f64",
@@ -75,7 +91,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=42f132243496a5eb406e2d7da91c1f64&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "768e0b7564bc35bd1bf1371f83461409",
@@ -94,7 +110,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=768e0b7564bc35bd1bf1371f83461409&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "2ded0e9577a8428b17440063b324bf43",
@@ -102,7 +118,7 @@
     "title": "제6차 GNU-SDGs/ESG 재학생 아카데미",
     "org": "지속가능발전센터",
     "type": "오프라인(대면)",
-    "desc": "생명존중 리더십과 공공기관의 사회적 책임 실천",
+    "desc": "한국승강기안전공단 이사장님 특강 : 생명존중 리더십과 공공기관의 사회적 책임 실천",
     "apply_period": "2026.11.25(수) ~ 2026.12.01(화)",
     "edu_period": "2026.12.03(목) ~ 2026.12.03(목)",
     "tags": [
@@ -112,7 +128,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2ded0e9577a8428b17440063b324bf43&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "a413208b38f3b3dcc1d59867c65ae34e",
@@ -131,7 +147,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a413208b38f3b3dcc1d59867c65ae34e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "b3d409f620424e00fbef45b9fb8e7302",
@@ -150,7 +166,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b3d409f620424e00fbef45b9fb8e7302&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "6031508e7aa24d281d0f5336042ad3d1",
@@ -168,7 +184,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6031508e7aa24d281d0f5336042ad3d1&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "1eae56ccca17d9938cb50117b8b29786",
@@ -184,7 +200,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1eae56ccca17d9938cb50117b8b29786&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "2f85338d5b5e4c1c6c84739de24d922c",
@@ -200,7 +216,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2f85338d5b5e4c1c6c84739de24d922c&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "aa8d024ad2cb1c645475948e9d7e6f52",
@@ -216,7 +232,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=aa8d024ad2cb1c645475948e9d7e6f52&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "80550ec3a97907dff8588e3638875320",
@@ -232,7 +248,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80550ec3a97907dff8588e3638875320&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "6dcb4f62210726553ba28c9d2f0a1ab0",
@@ -248,7 +264,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6dcb4f62210726553ba28c9d2f0a1ab0&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "3c026bf420a983d988db935a367d068d",
@@ -264,7 +280,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3c026bf420a983d988db935a367d068d&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "8a908c41627178e925813ae873f11652",
@@ -280,7 +296,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8a908c41627178e925813ae873f11652&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "18f83367f8fb217053637ef1af6fcd1b",
@@ -296,7 +312,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=18f83367f8fb217053637ef1af6fcd1b&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "99424c5c128b06ae54a2a59cec094597",
@@ -312,7 +328,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=99424c5c128b06ae54a2a59cec094597&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   },
   {
     "id": "6a08b34de0b0d258545f48b60025c707",
@@ -328,22 +344,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6a08b34de0b0d258545f48b60025c707&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
-  },
-  {
-    "id": "2c30838b4f5b11b946b648900a44ba62",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(토플 9점)원본제출 필요",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2c30838b4f5b11b946b648900a44ba62&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-25T10:58:34.491898+00:00"
+    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
   }
 ]
