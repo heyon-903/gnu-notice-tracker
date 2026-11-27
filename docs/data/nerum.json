@@ -1,5 +1,60 @@
 [
   {
+    "id": "fa87863d4d20e8df18c2c18c0587ee41",
+    "source": "nerum",
+    "title": "GNU BUDDY",
+    "org": "국제협력과",
+    "type": "온라인/오프라인(혼합)",
+    "desc": "GNU BUDDY",
+    "apply_period": "2026.11.27(금) ~ 2026.12.05(토)",
+    "edu_period": "2026.09.01(화) ~ 2027.01.31(일)",
+    "tags": [
+      "도전정신",
+      "의사소통"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=fa87863d4d20e8df18c2c18c0587ee41&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "5c808eb513b34b77e05cb87ed5aa8a14",
+    "source": "nerum",
+    "title": "GNU 유학생 튜터링",
+    "org": "국제협력과",
+    "type": "오프라인(대면)",
+    "desc": "GNU 유학생 튜터링",
+    "apply_period": "2026.09.16(수) ~ 2026.11.27(금)",
+    "edu_period": "2026.10.01(목) ~ 2026.12.10(목)",
+    "tags": [
+      "도전정신",
+      "의사소통",
+      "문제해결",
+      "시민정신"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=5c808eb513b34b77e05cb87ed5aa8a14&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "af4b359b495c6407fd35bd0ac53000e3",
+    "source": "nerum",
+    "title": "2026학년도 2학기(11월) 대인관계소통향상 집단상담(C) (매주 금_ 3주간, 가좌캠)",
+    "org": "학생상담센터",
+    "type": "오프라인(대면)",
+    "desc": "내 마음도, 상대의 마음도 알아가는 소통 연습",
+    "apply_period": "2026.11.26(목) ~ 2026.12.02(수)",
+    "edu_period": "2026.12.04(금) ~ 2026.12.18(금)",
+    "tags": [
+      "의사소통",
+      "시민정신",
+      "문제해결",
+      "자기관리"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=af4b359b495c6407fd35bd0ac53000e3&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
     "id": "e0352b19987d2d57bd8b163212872e94",
     "source": "nerum",
     "title": "[연장 모집] 2026학년도 신기술 기반 핵심역량 강화 프로그램(1차 온라인 교육)",
@@ -15,7 +70,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=e0352b19987d2d57bd8b163212872e94&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-26T10:35:19.404276+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "3ff133cf7d6c2f0dbe8e86a79b3ab372",
@@ -34,7 +89,115 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3ff133cf7d6c2f0dbe8e86a79b3ab372&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-26T10:35:19.404276+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "928805cdb68a64627c7dca828bb11f6b",
+    "source": "nerum",
+    "title": "AI 활용법: 하네스 엔지니어링",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=928805cdb68a64627c7dca828bb11f6b&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "1d48311cea02f6f5b01afabdcf9acf11",
+    "source": "nerum",
+    "title": "AI 활용법: Claude Skills",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1d48311cea02f6f5b01afabdcf9acf11&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "2d6ddfb6b9f10efa32bd843212e407c4",
+    "source": "nerum",
+    "title": "파일로 완성하는 Codex 실전 활용법",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2d6ddfb6b9f10efa32bd843212e407c4&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "6eed921eddf6ddffc5c03cd1210b4f1b",
+    "source": "nerum",
+    "title": "[바이브 코딩] 생각하는 대로 구현하는 기획·마케팅",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6eed921eddf6ddffc5c03cd1210b4f1b&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "384517cb2c6c75b50695cc6f934feaa9",
+    "source": "nerum",
+    "title": "Gemini, 완전 정복하기",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=384517cb2c6c75b50695cc6f934feaa9&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "f9e6f502b4cf59fe36d971212049e41e",
+    "source": "nerum",
+    "title": "AI와 함께하는 실전 영업 워크플로우",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=f9e6f502b4cf59fe36d971212049e41e&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "a860c4704fe5c39b3dc4dc0b24812cc3",
@@ -53,7 +216,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a860c4704fe5c39b3dc4dc0b24812cc3&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "80ee5357d57d91e1932fa66094d6461a",
@@ -72,7 +235,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80ee5357d57d91e1932fa66094d6461a&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "42f132243496a5eb406e2d7da91c1f64",
@@ -91,7 +254,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=42f132243496a5eb406e2d7da91c1f64&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "768e0b7564bc35bd1bf1371f83461409",
@@ -110,7 +273,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=768e0b7564bc35bd1bf1371f83461409&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "2ded0e9577a8428b17440063b324bf43",
@@ -128,7 +291,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2ded0e9577a8428b17440063b324bf43&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "a413208b38f3b3dcc1d59867c65ae34e",
@@ -147,7 +310,7 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=a413208b38f3b3dcc1d59867c65ae34e&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "b3d409f620424e00fbef45b9fb8e7302",
@@ -166,7 +329,25 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=b3d409f620424e00fbef45b9fb8e7302&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-24T12:09:08.339402+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
+  },
+  {
+    "id": "0c9f6f79dd2516c84c2d8be9892d9cf1",
+    "source": "nerum",
+    "title": "마케터를 위한 AI 업무 자동화 - 상권 분석부터 SNS 관리까지",
+    "org": "AI융합원",
+    "type": "오프라인(대면)",
+    "desc": "GNU AI Pioneer 온라인 특강 3차",
+    "apply_period": "2026.11.27(금) ~ 2026.12.31(목)",
+    "edu_period": "2026.11.27(금) ~ 2027.01.10(일)",
+    "tags": [
+      "도전정신",
+      "문제해결",
+      "창의융합"
+    ],
+    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=0c9f6f79dd2516c84c2d8be9892d9cf1&paginationInfo.currentPageNo=1",
+    "first_seen_at": "2026-11-27T10:38:34.251856+00:00",
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   },
   {
     "id": "6031508e7aa24d281d0f5336042ad3d1",
@@ -184,166 +365,6 @@
     ],
     "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6031508e7aa24d281d0f5336042ad3d1&paginationInfo.currentPageNo=1",
     "first_seen_at": "2026-11-25T10:58:34.491898+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "1eae56ccca17d9938cb50117b8b29786",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JLPT 10점)원본제출 필요",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=1eae56ccca17d9938cb50117b8b29786&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "2f85338d5b5e4c1c6c84739de24d922c",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JPT 10점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=2f85338d5b5e4c1c6c84739de24d922c&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "aa8d024ad2cb1c645475948e9d7e6f52",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(HSK 10점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=aa8d024ad2cb1c645475948e9d7e6f52&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "80550ec3a97907dff8588e3638875320",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(텝스, 뉴텝스 10점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=80550ec3a97907dff8588e3638875320&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "6dcb4f62210726553ba28c9d2f0a1ab0",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(토플 10점)원본제출 필요",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6dcb4f62210726553ba28c9d2f0a1ab0&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "3c026bf420a983d988db935a367d068d",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(토익 10점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=3c026bf420a983d988db935a367d068d&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "8a908c41627178e925813ae873f11652",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JLPT 9점)원본제출 필요",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=8a908c41627178e925813ae873f11652&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "18f83367f8fb217053637ef1af6fcd1b",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(JPT 9점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=18f83367f8fb217053637ef1af6fcd1b&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "99424c5c128b06ae54a2a59cec094597",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(HSK 9점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=99424c5c128b06ae54a2a59cec094597&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
-  },
-  {
-    "id": "6a08b34de0b0d258545f48b60025c707",
-    "source": "nerum",
-    "title": "구.경남과학기술대학교 비교과인증(텝스, 뉴텝스 9점)",
-    "org": "교육과정과",
-    "type": "온라인(비대면)",
-    "desc": "구.경남과학기술대학교 비교과인증",
-    "apply_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "edu_period": "2026.11.23(월) ~ 2027.01.08(금)",
-    "tags": [
-      "시민정신"
-    ],
-    "url": "https://nerum.gnu.ac.kr/ptfol/imng/icmpNsbjtPgm/findIcmpNsbjtPgmInfo.do?encSddpbSeq=6a08b34de0b0d258545f48b60025c707&paginationInfo.currentPageNo=1",
-    "first_seen_at": "2026-11-23T10:27:41.859190+00:00",
-    "fetched_at": "2026-11-26T10:35:19.404276+00:00"
+    "fetched_at": "2026-11-27T10:38:34.251856+00:00"
   }
 ]
